@@ -7,7 +7,7 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Client",
+    "repository": "https://github.com/tele-gram-bot/Forward-Client",
     "website": "https://telegram.dog/AbirHasan2005",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
@@ -61,7 +61,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
